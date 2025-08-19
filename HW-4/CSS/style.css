@@ -1,0 +1,51 @@
+.text-1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.text-2 {
+    font-family: "Times New Roman", serif;
+    text-decoration: line-through;
+}
+
+.text-3 {
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.text-4 {
+    font-family: 'Times New Roman', serif;
+    text-align: left;
+    word-spacing: 30px;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    text-shadow: 2px 1px 1px #e96ee9a1;
+}
+
+.text-5 {
+    font-family: 'Times New Roman', serif;
+    letter-spacing: 5px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+.text-6 {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #ce23238f;
+    text-transform: lowercase;
+    text-align: center;
+}
