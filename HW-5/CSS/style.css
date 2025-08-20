@@ -1,0 +1,26 @@
+.parent>.child {
+    box-sizing: border-box;
+}
+
+.parent {
+height: 550px;
+width: 1550px;
+background: #ffc6ff67;
+border: 1px solid #000;
+border-top-left-radius: 30px;
+border-bottom-left-radius: 30px;
+overflow: auto;
+}
+.child {
+    padding-top: 15px;
+    padding-left: 27px;
+    border: 0px solid #000;
+width: 300px;
+height: 200px;
+border-radius: 30px;
+background: #ffd298;
+box-shadow: 1px -4px 24px 4px #56636d94 inset;
+margin: 10px 10px 10px 5px;
+display: inline-block;
+font-size: 18px;
+}
