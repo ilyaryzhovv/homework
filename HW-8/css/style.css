@@ -1,0 +1,28 @@
+body {
+    background-color: #373737;
+    color: #ffffff;
+    font-size: 40px;
+
+}
+
+.rectangle {
+    background-color: #ffffff;
+    min-height: 100px;
+    width: 800px;
+    border-radius: 8px;
+    position: fixed;
+
+    left: 50%;
+    right: 50px;
+    bottom: 100px;
+}
+
+.circle {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: #d92c2c;
+    position: fixed;
+    bottom: 150px;
+    left: 54%;
+}
